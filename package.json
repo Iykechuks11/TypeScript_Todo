@@ -1,0 +1,15 @@
+{
+  "name": "juputa",
+  "version": "1.0.0",
+  "description": "A Typescript Project",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node node_modules/esmodules-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esmodules-dev-server": "^0.0.4",
+    "typescript": "^5.3.3"
+  }
+}
